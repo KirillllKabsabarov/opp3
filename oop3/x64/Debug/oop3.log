@@ -1,0 +1,4 @@
+﻿  oop3.cpp
+D:\VisualProject\lab\OOP\oop3\oop3\oop3.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VisualProject\lab\OOP\oop3\oop3\container.h(69): warning C4172: возвращение адреса локальной или временной переменной : elem
+  oop3.vcxproj -> D:\VisualProject\lab\OOP\oop3\x64\Debug\oop3.exe
